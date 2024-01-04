@@ -1,7 +1,7 @@
 # DLCV HW1 
 
 # Install required packages
-* Please install required package as the following shell script:
+* Please install required packages as the following shell script:
 ```shell script=
 conda create --name hw1 python=3.8
 conda activate hw1
@@ -9,7 +9,7 @@ pip install -r 'requirements.txt'
 ```
 
 # Install Dataset
-* Please dataset as the following shell script:
+* Please download the dataset as the following shell script:
 ```shell script=
 bash get_dataset.sh
 ```
