@@ -54,12 +54,4 @@ This step will give you videos with generated bounding-box in './videos' folder.
 * You may need to change the environment to run visualization code. 
 * Please refer to the "Basic installation" step of [this repo](https://github.com/facebookresearch/vq2d_cvpr/blob/main/INSTALL.md)
 
-# Submission Rules
-### Deadline
-112/12/28 (Thur.) 23:59 (GMT+8)
-    
-# Q&A
-If you have any problems related to Final Project, you may
-- Use TA hours
-- Contact TAs by e-mail ([ntudlcv@gmail.com](mailto:ntudlcv@gmail.com))
-- Post your question under `[Final challenge 2] VQ2D discussion` section in NTU Cool Discussion
+
