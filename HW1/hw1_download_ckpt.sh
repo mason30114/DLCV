@@ -1,0 +1,3 @@
+wget -O p1_final_ckpt.pth https://www.dropbox.com/scl/fi/pmxjwky2zr3kjgj7t7kce/p1_final_ckpt.pth?rlkey=zcw0ifqu24vt5bm2khcmur05g&dl=1
+wget -O p2_final_ckpt.pth https://www.dropbox.com/scl/fi/hexzuc9ds9mnc1r94n6y6/p2_final_ckpt.pth?rlkey=zp5houi8ema5ylpja2rjafjxb&dl=1
+wget -O p3_final_ckpt.pth https://www.dropbox.com/scl/fi/2uwk2vsf5vrsehbmta8mk/p3_final_ckpt.pth?rlkey=cxgg89q1d3y27rpgxthtfa2ig&dl=1
