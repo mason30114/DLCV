@@ -21,7 +21,7 @@ bash hw1_download_ckpt.sh
 ```
 
 # Inference
-* Please run the inference code as the following shell script:
+* Please run the inference code as the following shell script: <br>
 For Problem 1:
 ```shell script=
 bash hw1_1.sh <Path to testing images directory> <Path to output csv file> 
