@@ -22,15 +22,15 @@ bash hw1_download_ckpt.sh
 
 # Inference
 * Please run the inference code as the following shell script: <br>
-* For Problem 1:
+* Problem 1:
 ```shell script=
 bash hw1_1.sh <Path to testing images directory> <Path to output csv file> 
 ```
-* For Problem 2:
+* Problem 2:
 ```shell script=
-bash hw1_2.sh <Path to the images csv file> <Path to the folder containing images> <path of output .csv file>
+bash hw1_2.sh <Path to images csv file> <Path to folder containing images> <Path to output csv file>
 ```
-* For Problem 3:
+* Problem 3:
 ```shell script=
 bash hw1_3.sh <Path to testing images directory> <Path to output images directory> 
 ```
