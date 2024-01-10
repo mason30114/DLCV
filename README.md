@@ -4,7 +4,7 @@ Deep Learning for Computer Vision 深度學習於電腦視覺 by 王鈺強老師
 
 Passed Public/Private strong baseline for all assignments 
 
-Final grade: TBD/100
+Final grade: 96.98/100
 
 
 ## Outline
@@ -42,6 +42,6 @@ Please refer to the introduction file and homework report to understand our impl
     - SSIM: 0.9843/0.9829 (Baseline: 0.85/0.86)
 
 - Final Project -- Challenge 2 <br>
-⭐ Our poster ranked the second place in Professor & TAs evaluation and Inter-Team Evaluation ⭐
+⭐ Our poster ranked the second place in Professor & TAs Evaluation and Inter-Team Evaluation ⭐
   - Visual Queries 2D Localization Task (Ego4D Challenge)
     - stAP: 0.3945 (Baseline: 0.2897)
