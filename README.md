@@ -4,7 +4,7 @@ Deep Learning for Computer Vision 深度學習於電腦視覺 by 王鈺強老師
 
 Passed Public/Private strong baseline for all assignments 
 
-Final grade: 96.98/100
+Final grade: 98.48/100
 
 
 ## Outline
