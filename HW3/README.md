@@ -1,5 +1,8 @@
 # DLCV HW3 
 
+# Project Introduction
+* Please see "hw3_intro.pdf" to understand the details.
+
 # Install required packages
 * Please install required packages as the following shell script:
 ```shell script=
