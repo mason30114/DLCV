@@ -1,5 +1,11 @@
 # DLCV Final Project ( Visual Queries 2D Localization Task )
 
+# Project Introduction
+* Please see the part of challenge 2 in "DLCV Fall 2023 - Final Project.pdf" to understand the details.
+
+# Reference
+* This project is built on [VQLoC](https://github.com/hwjiang1510/VQLoC):
+
 # Install required packages
 * Please install required package as the following shell script:
 ```shell script=
