@@ -1,5 +1,11 @@
 # DLCV HW4
 
+# Project Introduction
+* Please see "hw4_intro.pdf" to understand the details.
+
+# Reference
+* This project is built on [nerf_pl](https://github.com/kwea123/nerf_pl):
+
 # Install required packages
 * Please install required packages as the following shell script:
 ```shell script=
