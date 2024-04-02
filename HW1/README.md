@@ -1,5 +1,8 @@
 # DLCV HW1 
 
+# Project Introduction
+* Please see "hw1_intro_2023.pdf" to understand the details.
+
 # Install required packages
 * Please install required packages as the following shell script:
 ```shell script=
