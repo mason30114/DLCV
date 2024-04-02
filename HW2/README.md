@@ -1,5 +1,8 @@
 # DLCV HW2
 
+# Project Introduction
+* Please see "2023_fall_hw2_intro.pptx.pdf" to understand the details.
+
 # Install required packages
 * Please install required packages as the following shell script:
 ```shell script=
